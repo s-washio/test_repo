@@ -6,3 +6,6 @@
 
 * fixブランチ
  * reset テスト
+
+* fix-2ブランチ追加
+ * rebaseテスト
