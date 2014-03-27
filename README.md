@@ -1,5 +1,8 @@
 ﻿# 練習用リポジトリ
 
-* test
-* test
-* test
+* testブランチ
+ * test
+ * test
+
+* fixブランチ
+ * reset テスト
