@@ -6,7 +6,4 @@
 	echo "I'm no fine\n";
 	
 	echo "REBASE TEST START!!";
-	echo "REBASE TEST START 2!!";
-	echo "REBASE TEST START 3!!";
-	
 ?>
