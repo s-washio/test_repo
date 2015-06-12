@@ -4,4 +4,6 @@
 	echo "fine thunk you and you ?\n";
 	
 	echo "I'm no fine\n";
+	
+	echo "REBASE TEST START!!";
 ?>
